@@ -37,7 +37,7 @@ Este projeto implementa o controle de um **servo motor** utilizando **PWM** no *
 
 caso seja utilizado o led pra testar, pode alterar a porta 22 por porta 12.
 
-[Clique aqui ⬆️ e assista o vídeo](https://youtu.be/xxxxx)
+[Clique aqui ⬆️ e assista o vídeo](https://youtu.be/LCPGgN21LKU)
 
 
 ## Autor
